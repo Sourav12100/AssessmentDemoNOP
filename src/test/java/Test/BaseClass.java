@@ -30,8 +30,8 @@ public class BaseClass {
         }
     }
 
-    @AfterClass
-    public void close() {
-        driver.close();
-    }
+//    @AfterClass
+//    public void close() {
+//        driver.close();
+//    }
 }
